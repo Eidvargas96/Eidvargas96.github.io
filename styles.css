@@ -104,6 +104,9 @@ img {
         word-wrap: break-word;
         font-size: 14px;
     }
+    body{
+        margin: 0px;
+    }
     
 }
 
